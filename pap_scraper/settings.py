@@ -1,5 +1,4 @@
 # Scrapy settings for pap_scraper project
-#
 # See https://docs.scrapy.org/en/latest/topics/settings.html
 
 from pathlib import Path
